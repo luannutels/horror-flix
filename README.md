@@ -1,2 +1,2 @@
 # terror-flix
-Landing page developed for front-end study.
+Project developed for front-end study.
